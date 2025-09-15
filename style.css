@@ -6,7 +6,7 @@ html { scroll-behavior: smooth; }
   --text: #111;
   --muted: #555;
   --bg: #ffffff;
-  --accent: #0a66c2; /* LinkedIn blue vibe */
+  --accent: #0a66c2;
   --card: #f7f7f8;
   --border: #e6e6e8;
   --radius: 12px;
@@ -23,7 +23,7 @@ body {
 
 /* Centered column */
 .container {
-  max-width: 720px;       /* <- main width like her site */
+  max-width: 720px;
   margin: 0 auto;
   padding: 24px 20px;
 }

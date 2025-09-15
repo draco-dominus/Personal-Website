@@ -21,6 +21,10 @@ body {
   line-height: 1.6;
 }
 
+p {
+  margin-bottom: 16px;
+}
+
 /* Centered column */
 .container {
   max-width: 720px;
